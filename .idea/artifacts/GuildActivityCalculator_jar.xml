@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GuildActivityCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GuildActivityCalculator_jar</output-path>
+    <root id="archive" name="GuildActivityCalculator.jar">
+      <element id="module-output" name="GuildActivityCalculator" />
+    </root>
+  </artifact>
+</component>
